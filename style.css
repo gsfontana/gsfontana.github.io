@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem 2rem;
+  background: #f4f4f4;
+}
+
+header {
+  text-align: center;
+  padding: 1.5rem 0;
+}
+
+h1 {
+  margin-bottom: 0.2rem;
+}
+
+.slogan {
+  margin-top: 0;
+  font-style: italic;
+  color: #555;
+}
+
+nav a {
+  margin: 0 0.5rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  background: #fff;
+  padding: 1.5rem;
+  border-radius: 8px;
+}
+
+section, article {
+  margin-bottom: 1.5rem;
+}
+
+.giocatore, .partita {
+  border-left: 4px solid #333;
+  padding-left: 0.5rem;
+}
+
+footer {
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #777;
+}
